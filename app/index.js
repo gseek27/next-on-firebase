@@ -1,1 +1,11 @@
-export * from './lib/next-on-firebase';
+import React from 'react';
+
+function HomePage() {
+  return (
+    <div>
+      <h1>Hello World!</h1>
+    </div>
+  );
+}
+
+export default HomePage;
