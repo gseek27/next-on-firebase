@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build",
+    "startTime": "2024-06-12T18:05:10.418Z",
+    "endTime": "2024-06-12T18:05:11.100Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "next-on-firebase:build",
+      "target": "build",
+      "projectName": "next-on-firebase",
+      "hash": "16026688967716381184",
+      "startTime": "2024-06-12T18:05:10.422Z",
+      "endTime": "2024-06-12T18:05:11.100Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

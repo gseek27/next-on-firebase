@@ -1,0 +1,88 @@
+[NX Daemon Server] - 2024-06-12T18:38:00.360Z - Started listening on: /var/folders/44/mq5264bx33v817x8csjmj9r00000gn/T/f161ae33e98c78a079e4/d.sock
+[NX Daemon Server] - 2024-06-12T18:38:00.368Z - [WATCHER]: Subscribed to changes within: /Users/kthompson/next-on-firebase
+[NX Daemon Server] - 2024-06-12T18:38:00.369Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:38:00.369Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:38:00.370Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:38:00.370Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:38:00.409Z - Error detected when recomputing project file map: The "request" argument must be of type string. Received an instance of Object
+[NX Daemon Server] - 2024-06-12T18:38:00.411Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The "request" argument must be of type string. Received an instance of Object
+TypeError [ERR_INVALID_ARG_TYPE]: The "request" argument must be of type string. Received an instance of Object
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Function.resolve (node:internal/modules/helpers:135:5)
+    at getPluginPathAndName (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:27:30)
+    at loadNxPluginSync (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:74:32)
+    at loadNxPluginsSync (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:94:25)
+    at getGlobPatternsFromPlugins (/Users/kthompson/next-on-firebase/node_modules/nx/src/config/workspaces.js:315:55)
+    at Workspaces.readProjectsConfigurations (/Users/kthompson/next-on-firebase/node_modules/nx/src/config/workspaces.js:64:15)
+    at /Users/kthompson/next-on-firebase/node_modules/nx/src/daemon/server/project-graph-incremental-recomputation.js:96:103
+    at Generator.next (<anonymous>) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+[NX Daemon Server] - 2024-06-12T18:38:00.413Z - Done responding to the client null
+[NX Daemon Server] - 2024-06-12T18:38:31.604Z - Started listening on: /var/folders/44/mq5264bx33v817x8csjmj9r00000gn/T/f161ae33e98c78a079e4/d.sock
+[NX Daemon Server] - 2024-06-12T18:38:31.610Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:38:31.611Z - [WATCHER]: Subscribed to changes within: /Users/kthompson/next-on-firebase
+[NX Daemon Server] - 2024-06-12T18:38:31.611Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:38:31.612Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:38:31.612Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:38:31.653Z - Error detected when recomputing project file map: The "request" argument must be of type string. Received an instance of Object
+[NX Daemon Server] - 2024-06-12T18:38:31.655Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The "request" argument must be of type string. Received an instance of Object
+TypeError [ERR_INVALID_ARG_TYPE]: The "request" argument must be of type string. Received an instance of Object
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Function.resolve (node:internal/modules/helpers:135:5)
+    at getPluginPathAndName (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:27:30)
+    at loadNxPluginSync (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:74:32)
+    at loadNxPluginsSync (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:94:25)
+    at getGlobPatternsFromPlugins (/Users/kthompson/next-on-firebase/node_modules/nx/src/config/workspaces.js:315:55)
+    at Workspaces.readProjectsConfigurations (/Users/kthompson/next-on-firebase/node_modules/nx/src/config/workspaces.js:64:15)
+    at /Users/kthompson/next-on-firebase/node_modules/nx/src/daemon/server/project-graph-incremental-recomputation.js:96:103
+    at Generator.next (<anonymous>) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+[NX Daemon Server] - 2024-06-12T18:38:31.656Z - Done responding to the client null
+[NX Daemon Server] - 2024-06-12T18:38:38.313Z - Started listening on: /var/folders/44/mq5264bx33v817x8csjmj9r00000gn/T/f161ae33e98c78a079e4/d.sock
+[NX Daemon Server] - 2024-06-12T18:38:38.316Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:38:38.317Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:38:38.317Z - [WATCHER]: Subscribed to changes within: /Users/kthompson/next-on-firebase
+[NX Daemon Server] - 2024-06-12T18:38:38.317Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:38:38.318Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:38:38.360Z - Error detected when recomputing project file map: The "request" argument must be of type string. Received an instance of Object
+[NX Daemon Server] - 2024-06-12T18:38:38.361Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The "request" argument must be of type string. Received an instance of Object
+TypeError [ERR_INVALID_ARG_TYPE]: The "request" argument must be of type string. Received an instance of Object
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Function.resolve (node:internal/modules/helpers:135:5)
+    at getPluginPathAndName (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:27:30)
+    at loadNxPluginSync (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:74:32)
+    at loadNxPluginsSync (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:94:25)
+    at getGlobPatternsFromPlugins (/Users/kthompson/next-on-firebase/node_modules/nx/src/config/workspaces.js:315:55)
+    at Workspaces.readProjectsConfigurations (/Users/kthompson/next-on-firebase/node_modules/nx/src/config/workspaces.js:64:15)
+    at /Users/kthompson/next-on-firebase/node_modules/nx/src/daemon/server/project-graph-incremental-recomputation.js:96:103
+    at Generator.next (<anonymous>) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+[NX Daemon Server] - 2024-06-12T18:38:38.363Z - Done responding to the client null
+[NX Daemon Server] - 2024-06-12T18:38:45.447Z - Started listening on: /var/folders/44/mq5264bx33v817x8csjmj9r00000gn/T/f161ae33e98c78a079e4/d.sock
+[NX Daemon Server] - 2024-06-12T18:38:45.449Z - [WATCHER]: Subscribed to changes within: /Users/kthompson/next-on-firebase
+[NX Daemon Server] - 2024-06-12T18:38:45.455Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:38:45.456Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:38:45.457Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:38:45.457Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:38:45.492Z - Error detected when recomputing project file map: The "request" argument must be of type string. Received an instance of Object
+[NX Daemon Server] - 2024-06-12T18:38:45.493Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The "request" argument must be of type string. Received an instance of Object
+TypeError [ERR_INVALID_ARG_TYPE]: The "request" argument must be of type string. Received an instance of Object
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Function.resolve (node:internal/modules/helpers:135:5)
+    at getPluginPathAndName (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:27:30)
+    at loadNxPluginSync (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:74:32)
+    at loadNxPluginsSync (/Users/kthompson/next-on-firebase/node_modules/nx/src/utils/nx-plugin.js:94:25)
+    at getGlobPatternsFromPlugins (/Users/kthompson/next-on-firebase/node_modules/nx/src/config/workspaces.js:315:55)
+    at Workspaces.readProjectsConfigurations (/Users/kthompson/next-on-firebase/node_modules/nx/src/config/workspaces.js:64:15)
+    at /Users/kthompson/next-on-firebase/node_modules/nx/src/daemon/server/project-graph-incremental-recomputation.js:96:103
+    at Generator.next (<anonymous>) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+[NX Daemon Server] - 2024-06-12T18:38:45.495Z - Done responding to the client null

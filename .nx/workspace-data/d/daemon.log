@@ -1,0 +1,692 @@
+[NX Daemon Server] - 2024-06-12T17:55:16.746Z - Started listening on: /var/folders/44/mq5264bx33v817x8csjmj9r00000gn/T/f161ae33e98c78a079e4/d.sock
+[NX Daemon Server] - 2024-06-12T17:55:16.748Z - [WATCHER]: Subscribed to changes within: /Users/kthompson/next-on-firebase (native)
+[NX Daemon Server] - 2024-06-12T17:55:16.749Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T17:55:16.750Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-12T17:55:16.750Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T17:55:16.750Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T17:55:16.817Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-12T17:55:16.817Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-12T17:55:16.817Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-12T17:55:17.556Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T17:55:17.556Z - Time taken for 'total for creating and serializing project graph' 805.2248750329018ms
+[NX Daemon Server] - 2024-06-12T17:55:17.557Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T17:55:17.557Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 805. Response time: 2.
+[NX Daemon Server] - 2024-06-12T17:55:17.597Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T17:55:17.598Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T17:55:17.598Z - Handled HASH_TASKS. Handling time: 5. Response time: 1.
+[NX Daemon Server] - 2024-06-12T17:55:23.601Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T17:55:23.935Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2024-06-12T17:55:23.935Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2024-06-12T17:55:23.935Z - Handled RECORD_OUTPUTS_HASH. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-06-12T17:55:24.004Z - [REQUEST]: Responding to the client. PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2024-06-12T17:55:24.004Z - Done responding to the client PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2024-06-12T17:55:24.004Z - Handled PROCESS_IN_BACKGROUND. Handling time: 39. Response time: 0.
+[NX Daemon Server] - 2024-06-12T17:55:24.004Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T17:55:24.006Z - Uploading file artifacts
+[NX Daemon Server] - 2024-06-12T17:55:24.032Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-12T17:55:24.219Z - Done uploading file artifacts
+[NX Daemon Server] - 2024-06-12T17:55:24.220Z - Sending EndRun request
+[NX Daemon Server] - 2024-06-12T17:55:24.348Z - Done sending EndRun request
+[NX Daemon Server] - 2024-06-12T17:56:33.072Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T17:56:33.094Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-06-12T17:56:33.187Z - [WATCHER]: 0 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-06-12T17:56:33.187Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T17:56:33.196Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-12T17:56:33.196Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-12T17:56:33.196Z - [REQUEST]: package.json.sb-19e40faa-kYadT1
+[NX Daemon Server] - 2024-06-12T17:56:33.257Z - Time taken for 'hash changed files from watcher' 0.7026249766349792ms
+[NX Daemon Server] - 2024-06-12T17:58:44.852Z - [WATCHER]: 0 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-06-12T17:58:44.855Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T17:58:45.060Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-12T17:58:45.061Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-12T17:58:45.061Z - [REQUEST]: package.json.sb-19e40faa-LhLQHa
+[NX Daemon Server] - 2024-06-12T17:58:45.135Z - Time taken for 'hash changed files from watcher' 2.2094160318374634ms
+[NX Daemon Server] - 2024-06-12T18:03:51.679Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T18:04:36.658Z - [WATCHER]: 0 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-06-12T18:04:36.660Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T18:04:37.078Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-12T18:04:37.078Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-12T18:04:37.078Z - [REQUEST]: package.json.sb-19e40faa-Pr1dV6
+[NX Daemon Server] - 2024-06-12T18:04:37.143Z - Time taken for 'hash changed files from watcher' 16.013000011444092ms
+[NX Daemon Server] - 2024-06-12T18:05:01.949Z - [WATCHER]: package-lock.json was modified
+[NX Daemon Server] - 2024-06-12T18:05:01.950Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T18:05:02.754Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-12T18:05:02.755Z - [REQUEST]: package-lock.json
+[NX Daemon Server] - 2024-06-12T18:05:02.755Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-12T18:05:02.799Z - Time taken for 'hash changed files from watcher' 2.7969160079956055ms
+[NX Daemon Server] - 2024-06-12T18:05:10.321Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:05:10.322Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:05:10.322Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:05:10.323Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:10.323Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:10.323Z - Time taken for 'total for creating and serializing project graph' 0.1536250114440918ms
+[NX Daemon Server] - 2024-06-12T18:05:10.324Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:10.324Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:10.361Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:10.362Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:10.362Z - Handled HASH_TASKS. Handling time: 8. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:10.773Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T18:05:11.099Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2024-06-12T18:05:11.099Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2024-06-12T18:05:11.099Z - Handled RECORD_OUTPUTS_HASH. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:11.133Z - [REQUEST]: Responding to the client. PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2024-06-12T18:05:11.133Z - Done responding to the client PROCESS_IN_BACKGROUND
+[NX Daemon Server] - 2024-06-12T18:05:11.133Z - Handled PROCESS_IN_BACKGROUND. Handling time: 16. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:11.135Z - Uploading file artifacts
+[NX Daemon Server] - 2024-06-12T18:05:11.135Z - Done uploading file artifacts
+[NX Daemon Server] - 2024-06-12T18:05:11.135Z - Sending EndRun request
+[NX Daemon Server] - 2024-06-12T18:05:11.141Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T18:05:11.141Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-12T18:05:11.259Z - Done sending EndRun request
+[NX Daemon Server] - 2024-06-12T18:05:20.629Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:05:20.630Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:05:20.630Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:05:20.631Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:20.631Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:20.631Z - Time taken for 'total for creating and serializing project graph' 0.19437503814697266ms
+[NX Daemon Server] - 2024-06-12T18:05:20.632Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:20.632Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:20.661Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:20.661Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:20.661Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:21.099Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:05:21.099Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:05:21.099Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:05:21.100Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:21.100Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:21.101Z - Time taken for 'total for creating and serializing project graph' 0.05883300304412842ms
+[NX Daemon Server] - 2024-06-12T18:05:21.102Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:21.102Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:21.122Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:21.123Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:21.123Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:21.524Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-06-12T18:05:21.524Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:05:21.525Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-06-12T18:05:21.525Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:21.525Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:21.526Z - Time taken for 'total for creating and serializing project graph' 0.05283403396606445ms
+[NX Daemon Server] - 2024-06-12T18:05:21.527Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:21.527Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:21.547Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:21.548Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:21.548Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:21.939Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-06-12T18:05:21.940Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-06-12T18:05:21.940Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-06-12T18:05:21.945Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:21.946Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:21.946Z - Time taken for 'total for creating and serializing project graph' 0.06433302164077759ms
+[NX Daemon Server] - 2024-06-12T18:05:21.947Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:21.947Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:21.970Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:21.970Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:21.970Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:22.371Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-06-12T18:05:22.371Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-06-12T18:05:22.371Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-06-12T18:05:22.372Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:22.372Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:22.373Z - Time taken for 'total for creating and serializing project graph' 0.06208294630050659ms
+[NX Daemon Server] - 2024-06-12T18:05:22.373Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:22.374Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:22.401Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:22.401Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:22.401Z - Handled HASH_TASKS. Handling time: 3. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:22.791Z - Established a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-06-12T18:05:22.791Z - Closed a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-06-12T18:05:22.791Z - Established a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-06-12T18:05:22.792Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:22.792Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:22.792Z - Time taken for 'total for creating and serializing project graph' 0.05595904588699341ms
+[NX Daemon Server] - 2024-06-12T18:05:22.793Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:22.793Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:22.815Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:22.816Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:22.816Z - Handled HASH_TASKS. Handling time: 5. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:23.220Z - Established a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-06-12T18:05:23.222Z - Closed a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-06-12T18:05:23.222Z - Established a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-06-12T18:05:23.226Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:23.226Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:23.227Z - Time taken for 'total for creating and serializing project graph' 0.08583301305770874ms
+[NX Daemon Server] - 2024-06-12T18:05:23.228Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:23.228Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:23.249Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:23.249Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:23.249Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:23.691Z - Established a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-06-12T18:05:23.692Z - Closed a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-06-12T18:05:23.692Z - Established a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-06-12T18:05:23.693Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:23.693Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:23.694Z - Time taken for 'total for creating and serializing project graph' 0.08300000429153442ms
+[NX Daemon Server] - 2024-06-12T18:05:23.695Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:23.695Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:23.716Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:23.717Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:23.717Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:24.129Z - Established a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-06-12T18:05:24.129Z - Closed a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-06-12T18:05:24.130Z - Established a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-06-12T18:05:24.130Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:24.130Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:24.131Z - Time taken for 'total for creating and serializing project graph' 0.0529170036315918ms
+[NX Daemon Server] - 2024-06-12T18:05:24.132Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:24.132Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:24.154Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:24.155Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:24.155Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:24.564Z - Established a connection. Number of open connections: 10
+[NX Daemon Server] - 2024-06-12T18:05:24.564Z - Closed a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-06-12T18:05:24.565Z - Established a connection. Number of open connections: 10
+[NX Daemon Server] - 2024-06-12T18:05:24.565Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:24.565Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:24.566Z - Time taken for 'total for creating and serializing project graph' 0.054624974727630615ms
+[NX Daemon Server] - 2024-06-12T18:05:24.567Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:24.567Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:24.587Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:24.588Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:24.588Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:25.001Z - Established a connection. Number of open connections: 11
+[NX Daemon Server] - 2024-06-12T18:05:25.002Z - Closed a connection. Number of open connections: 10
+[NX Daemon Server] - 2024-06-12T18:05:25.002Z - Established a connection. Number of open connections: 11
+[NX Daemon Server] - 2024-06-12T18:05:25.003Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:25.003Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:25.003Z - Time taken for 'total for creating and serializing project graph' 0.05274999141693115ms
+[NX Daemon Server] - 2024-06-12T18:05:25.004Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:25.004Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:25.025Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:25.025Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:25.025Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:25.453Z - Established a connection. Number of open connections: 12
+[NX Daemon Server] - 2024-06-12T18:05:25.454Z - Closed a connection. Number of open connections: 11
+[NX Daemon Server] - 2024-06-12T18:05:25.454Z - Established a connection. Number of open connections: 12
+[NX Daemon Server] - 2024-06-12T18:05:25.455Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:25.455Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:25.455Z - Time taken for 'total for creating and serializing project graph' 0.10733300447463989ms
+[NX Daemon Server] - 2024-06-12T18:05:25.456Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:25.456Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:25.478Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:25.478Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:25.478Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:25.894Z - Established a connection. Number of open connections: 13
+[NX Daemon Server] - 2024-06-12T18:05:25.895Z - Established a connection. Number of open connections: 14
+[NX Daemon Server] - 2024-06-12T18:05:25.895Z - Closed a connection. Number of open connections: 13
+[NX Daemon Server] - 2024-06-12T18:05:25.895Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:25.895Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:25.896Z - Time taken for 'total for creating and serializing project graph' 0.04979205131530762ms
+[NX Daemon Server] - 2024-06-12T18:05:25.897Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:25.897Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:25.918Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:25.918Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:25.918Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:26.347Z - Established a connection. Number of open connections: 14
+[NX Daemon Server] - 2024-06-12T18:05:26.348Z - Closed a connection. Number of open connections: 13
+[NX Daemon Server] - 2024-06-12T18:05:26.348Z - Established a connection. Number of open connections: 14
+[NX Daemon Server] - 2024-06-12T18:05:26.349Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:26.349Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:26.349Z - Time taken for 'total for creating and serializing project graph' 0.06783401966094971ms
+[NX Daemon Server] - 2024-06-12T18:05:26.350Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:26.350Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:26.371Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:26.371Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:26.372Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:26.788Z - Established a connection. Number of open connections: 15
+[NX Daemon Server] - 2024-06-12T18:05:26.788Z - Closed a connection. Number of open connections: 14
+[NX Daemon Server] - 2024-06-12T18:05:26.788Z - Established a connection. Number of open connections: 15
+[NX Daemon Server] - 2024-06-12T18:05:26.789Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:26.789Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:26.790Z - Time taken for 'total for creating and serializing project graph' 0.0672919750213623ms
+[NX Daemon Server] - 2024-06-12T18:05:26.791Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:26.791Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:26.811Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:26.811Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:26.812Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:27.234Z - Established a connection. Number of open connections: 16
+[NX Daemon Server] - 2024-06-12T18:05:27.234Z - Closed a connection. Number of open connections: 15
+[NX Daemon Server] - 2024-06-12T18:05:27.234Z - Established a connection. Number of open connections: 16
+[NX Daemon Server] - 2024-06-12T18:05:27.235Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:27.235Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:27.236Z - Time taken for 'total for creating and serializing project graph' 0.07941699028015137ms
+[NX Daemon Server] - 2024-06-12T18:05:27.237Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:27.237Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:27.257Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:27.258Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:27.258Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:27.676Z - Established a connection. Number of open connections: 17
+[NX Daemon Server] - 2024-06-12T18:05:27.676Z - Closed a connection. Number of open connections: 16
+[NX Daemon Server] - 2024-06-12T18:05:27.676Z - Established a connection. Number of open connections: 17
+[NX Daemon Server] - 2024-06-12T18:05:27.677Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:27.677Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:27.679Z - Time taken for 'total for creating and serializing project graph' 0.07404202222824097ms
+[NX Daemon Server] - 2024-06-12T18:05:27.680Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:27.680Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-06-12T18:05:27.703Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:27.703Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:27.704Z - Handled HASH_TASKS. Handling time: 4. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:28.135Z - Established a connection. Number of open connections: 18
+[NX Daemon Server] - 2024-06-12T18:05:28.135Z - Closed a connection. Number of open connections: 17
+[NX Daemon Server] - 2024-06-12T18:05:28.136Z - Established a connection. Number of open connections: 18
+[NX Daemon Server] - 2024-06-12T18:05:28.136Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:28.136Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:28.137Z - Time taken for 'total for creating and serializing project graph' 0.04795801639556885ms
+[NX Daemon Server] - 2024-06-12T18:05:28.138Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:28.138Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:28.158Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:28.159Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:28.159Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:28.579Z - Established a connection. Number of open connections: 19
+[NX Daemon Server] - 2024-06-12T18:05:28.579Z - Closed a connection. Number of open connections: 18
+[NX Daemon Server] - 2024-06-12T18:05:28.579Z - Established a connection. Number of open connections: 19
+[NX Daemon Server] - 2024-06-12T18:05:28.580Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:28.580Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:28.581Z - Time taken for 'total for creating and serializing project graph' 0.05254101753234863ms
+[NX Daemon Server] - 2024-06-12T18:05:28.582Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:28.582Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:28.602Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:28.603Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:28.603Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:29.032Z - Established a connection. Number of open connections: 20
+[NX Daemon Server] - 2024-06-12T18:05:29.033Z - Closed a connection. Number of open connections: 19
+[NX Daemon Server] - 2024-06-12T18:05:29.033Z - Established a connection. Number of open connections: 20
+[NX Daemon Server] - 2024-06-12T18:05:29.034Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:29.034Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:29.034Z - Time taken for 'total for creating and serializing project graph' 0.07712501287460327ms
+[NX Daemon Server] - 2024-06-12T18:05:29.035Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:29.035Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:29.056Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:29.057Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:29.057Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:29.498Z - Established a connection. Number of open connections: 21
+[NX Daemon Server] - 2024-06-12T18:05:29.498Z - Closed a connection. Number of open connections: 20
+[NX Daemon Server] - 2024-06-12T18:05:29.499Z - Established a connection. Number of open connections: 21
+[NX Daemon Server] - 2024-06-12T18:05:29.499Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:29.499Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:29.500Z - Time taken for 'total for creating and serializing project graph' 0.05558300018310547ms
+[NX Daemon Server] - 2024-06-12T18:05:29.501Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:29.501Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:29.522Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:29.522Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:29.522Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:29.943Z - Established a connection. Number of open connections: 22
+[NX Daemon Server] - 2024-06-12T18:05:29.943Z - Closed a connection. Number of open connections: 21
+[NX Daemon Server] - 2024-06-12T18:05:29.944Z - Established a connection. Number of open connections: 22
+[NX Daemon Server] - 2024-06-12T18:05:29.944Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:29.945Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:29.949Z - Time taken for 'total for creating and serializing project graph' 0.0490419864654541ms
+[NX Daemon Server] - 2024-06-12T18:05:29.949Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:29.949Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 4.
+[NX Daemon Server] - 2024-06-12T18:05:29.973Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:29.973Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:29.973Z - Handled HASH_TASKS. Handling time: 3. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:30.401Z - Established a connection. Number of open connections: 23
+[NX Daemon Server] - 2024-06-12T18:05:30.401Z - Closed a connection. Number of open connections: 22
+[NX Daemon Server] - 2024-06-12T18:05:30.401Z - Established a connection. Number of open connections: 23
+[NX Daemon Server] - 2024-06-12T18:05:30.402Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:30.402Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:30.402Z - Time taken for 'total for creating and serializing project graph' 0.05658304691314697ms
+[NX Daemon Server] - 2024-06-12T18:05:30.403Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:30.403Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:30.424Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:30.424Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:30.424Z - Handled HASH_TASKS. Handling time: 3. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:30.876Z - Established a connection. Number of open connections: 24
+[NX Daemon Server] - 2024-06-12T18:05:30.876Z - Closed a connection. Number of open connections: 23
+[NX Daemon Server] - 2024-06-12T18:05:30.877Z - Established a connection. Number of open connections: 24
+[NX Daemon Server] - 2024-06-12T18:05:30.877Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:30.877Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:30.878Z - Time taken for 'total for creating and serializing project graph' 0.05945795774459839ms
+[NX Daemon Server] - 2024-06-12T18:05:30.879Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:30.879Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:30.903Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:30.903Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:30.904Z - Handled HASH_TASKS. Handling time: 4. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:31.399Z - Established a connection. Number of open connections: 25
+[NX Daemon Server] - 2024-06-12T18:05:31.400Z - Established a connection. Number of open connections: 26
+[NX Daemon Server] - 2024-06-12T18:05:31.400Z - Closed a connection. Number of open connections: 25
+[NX Daemon Server] - 2024-06-12T18:05:31.400Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:31.400Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:31.401Z - Time taken for 'total for creating and serializing project graph' 0.08799999952316284ms
+[NX Daemon Server] - 2024-06-12T18:05:31.402Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:31.402Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:31.432Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:31.432Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:31.432Z - Handled HASH_TASKS. Handling time: 10. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:31.919Z - Established a connection. Number of open connections: 26
+[NX Daemon Server] - 2024-06-12T18:05:31.919Z - Closed a connection. Number of open connections: 25
+[NX Daemon Server] - 2024-06-12T18:05:31.920Z - Established a connection. Number of open connections: 26
+[NX Daemon Server] - 2024-06-12T18:05:31.920Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:31.920Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:31.921Z - Time taken for 'total for creating and serializing project graph' 0.06416696310043335ms
+[NX Daemon Server] - 2024-06-12T18:05:31.922Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:31.922Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:31.943Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:31.943Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:31.943Z - Handled HASH_TASKS. Handling time: 3. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:32.385Z - Established a connection. Number of open connections: 27
+[NX Daemon Server] - 2024-06-12T18:05:32.385Z - Closed a connection. Number of open connections: 26
+[NX Daemon Server] - 2024-06-12T18:05:32.385Z - Established a connection. Number of open connections: 27
+[NX Daemon Server] - 2024-06-12T18:05:32.386Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:32.386Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:32.387Z - Time taken for 'total for creating and serializing project graph' 0.056500017642974854ms
+[NX Daemon Server] - 2024-06-12T18:05:32.388Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:32.389Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-06-12T18:05:32.410Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:32.411Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:32.411Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:32.880Z - Established a connection. Number of open connections: 28
+[NX Daemon Server] - 2024-06-12T18:05:32.880Z - Closed a connection. Number of open connections: 27
+[NX Daemon Server] - 2024-06-12T18:05:32.880Z - Established a connection. Number of open connections: 28
+[NX Daemon Server] - 2024-06-12T18:05:32.881Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:32.881Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:32.882Z - Time taken for 'total for creating and serializing project graph' 0.05708301067352295ms
+[NX Daemon Server] - 2024-06-12T18:05:32.883Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:32.883Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:32.904Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:32.905Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:32.905Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:33.342Z - Established a connection. Number of open connections: 29
+[NX Daemon Server] - 2024-06-12T18:05:33.342Z - Closed a connection. Number of open connections: 28
+[NX Daemon Server] - 2024-06-12T18:05:33.342Z - Established a connection. Number of open connections: 29
+[NX Daemon Server] - 2024-06-12T18:05:33.343Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:33.343Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:33.344Z - Time taken for 'total for creating and serializing project graph' 0.04920905828475952ms
+[NX Daemon Server] - 2024-06-12T18:05:33.345Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:33.345Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:33.367Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:33.367Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:33.367Z - Handled HASH_TASKS. Handling time: 5. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:33.881Z - Established a connection. Number of open connections: 30
+[NX Daemon Server] - 2024-06-12T18:05:33.882Z - Established a connection. Number of open connections: 31
+[NX Daemon Server] - 2024-06-12T18:05:33.882Z - Closed a connection. Number of open connections: 30
+[NX Daemon Server] - 2024-06-12T18:05:33.883Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:33.883Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:33.884Z - Time taken for 'total for creating and serializing project graph' 0.18070805072784424ms
+[NX Daemon Server] - 2024-06-12T18:05:33.885Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:33.885Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:33.907Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:33.908Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:33.908Z - Handled HASH_TASKS. Handling time: 4. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:34.368Z - Established a connection. Number of open connections: 31
+[NX Daemon Server] - 2024-06-12T18:05:34.368Z - Closed a connection. Number of open connections: 30
+[NX Daemon Server] - 2024-06-12T18:05:34.369Z - Established a connection. Number of open connections: 31
+[NX Daemon Server] - 2024-06-12T18:05:34.370Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:34.370Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:34.370Z - Time taken for 'total for creating and serializing project graph' 0.06579196453094482ms
+[NX Daemon Server] - 2024-06-12T18:05:34.371Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:34.371Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:34.394Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:34.394Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:34.394Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:34.848Z - Established a connection. Number of open connections: 32
+[NX Daemon Server] - 2024-06-12T18:05:34.849Z - Closed a connection. Number of open connections: 31
+[NX Daemon Server] - 2024-06-12T18:05:34.849Z - Established a connection. Number of open connections: 32
+[NX Daemon Server] - 2024-06-12T18:05:34.850Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:34.850Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:34.850Z - Time taken for 'total for creating and serializing project graph' 0.0663750171661377ms
+[NX Daemon Server] - 2024-06-12T18:05:34.851Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:34.851Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:34.873Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:34.874Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:34.874Z - Handled HASH_TASKS. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:35.328Z - Established a connection. Number of open connections: 33
+[NX Daemon Server] - 2024-06-12T18:05:35.328Z - Closed a connection. Number of open connections: 32
+[NX Daemon Server] - 2024-06-12T18:05:35.329Z - Established a connection. Number of open connections: 33
+[NX Daemon Server] - 2024-06-12T18:05:35.329Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:35.329Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:35.330Z - Time taken for 'total for creating and serializing project graph' 0.048958003520965576ms
+[NX Daemon Server] - 2024-06-12T18:05:35.331Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:35.331Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:35.354Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:35.354Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:35.354Z - Handled HASH_TASKS. Handling time: 3. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:35.798Z - Established a connection. Number of open connections: 34
+[NX Daemon Server] - 2024-06-12T18:05:35.798Z - Closed a connection. Number of open connections: 33
+[NX Daemon Server] - 2024-06-12T18:05:35.799Z - Established a connection. Number of open connections: 34
+[NX Daemon Server] - 2024-06-12T18:05:35.800Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:35.800Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:35.801Z - Time taken for 'total for creating and serializing project graph' 0.08658301830291748ms
+[NX Daemon Server] - 2024-06-12T18:05:35.802Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:35.802Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:35.823Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:35.823Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:35.823Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:36.270Z - Established a connection. Number of open connections: 35
+[NX Daemon Server] - 2024-06-12T18:05:36.270Z - Closed a connection. Number of open connections: 34
+[NX Daemon Server] - 2024-06-12T18:05:36.271Z - Established a connection. Number of open connections: 35
+[NX Daemon Server] - 2024-06-12T18:05:36.271Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:36.271Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:36.272Z - Time taken for 'total for creating and serializing project graph' 0.04954195022583008ms
+[NX Daemon Server] - 2024-06-12T18:05:36.273Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:36.273Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:36.294Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:36.294Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:36.294Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:36.754Z - Established a connection. Number of open connections: 36
+[NX Daemon Server] - 2024-06-12T18:05:36.754Z - Closed a connection. Number of open connections: 35
+[NX Daemon Server] - 2024-06-12T18:05:36.754Z - Established a connection. Number of open connections: 36
+[NX Daemon Server] - 2024-06-12T18:05:36.755Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:36.755Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:36.756Z - Time taken for 'total for creating and serializing project graph' 0.0512089729309082ms
+[NX Daemon Server] - 2024-06-12T18:05:36.756Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:36.756Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:36.778Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:36.778Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:36.778Z - Handled HASH_TASKS. Handling time: 3. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:37.239Z - Established a connection. Number of open connections: 37
+[NX Daemon Server] - 2024-06-12T18:05:37.239Z - Closed a connection. Number of open connections: 36
+[NX Daemon Server] - 2024-06-12T18:05:37.239Z - Established a connection. Number of open connections: 37
+[NX Daemon Server] - 2024-06-12T18:05:37.240Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:37.240Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:37.241Z - Time taken for 'total for creating and serializing project graph' 0.0543750524520874ms
+[NX Daemon Server] - 2024-06-12T18:05:37.242Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:37.242Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:37.274Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:37.274Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:37.274Z - Handled HASH_TASKS. Handling time: 5. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:37.723Z - Established a connection. Number of open connections: 38
+[NX Daemon Server] - 2024-06-12T18:05:37.723Z - Closed a connection. Number of open connections: 37
+[NX Daemon Server] - 2024-06-12T18:05:37.724Z - Established a connection. Number of open connections: 38
+[NX Daemon Server] - 2024-06-12T18:05:37.724Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:37.724Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:37.725Z - Time taken for 'total for creating and serializing project graph' 0.048708975315093994ms
+[NX Daemon Server] - 2024-06-12T18:05:37.726Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:37.726Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:37.748Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:37.748Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:37.748Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:38.193Z - Established a connection. Number of open connections: 39
+[NX Daemon Server] - 2024-06-12T18:05:38.193Z - Closed a connection. Number of open connections: 38
+[NX Daemon Server] - 2024-06-12T18:05:38.193Z - Established a connection. Number of open connections: 39
+[NX Daemon Server] - 2024-06-12T18:05:38.194Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:38.194Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:38.195Z - Time taken for 'total for creating and serializing project graph' 0.07970798015594482ms
+[NX Daemon Server] - 2024-06-12T18:05:38.196Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:38.196Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:38.227Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:38.227Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:38.227Z - Handled HASH_TASKS. Handling time: 5. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:38.690Z - Established a connection. Number of open connections: 40
+[NX Daemon Server] - 2024-06-12T18:05:38.691Z - Closed a connection. Number of open connections: 39
+[NX Daemon Server] - 2024-06-12T18:05:38.691Z - Established a connection. Number of open connections: 40
+[NX Daemon Server] - 2024-06-12T18:05:38.692Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:38.692Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:38.693Z - Time taken for 'total for creating and serializing project graph' 0.048457980155944824ms
+[NX Daemon Server] - 2024-06-12T18:05:38.694Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:38.694Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:38.716Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:38.716Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:38.716Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:39.222Z - Established a connection. Number of open connections: 41
+[NX Daemon Server] - 2024-06-12T18:05:39.223Z - Closed a connection. Number of open connections: 40
+[NX Daemon Server] - 2024-06-12T18:05:39.223Z - Established a connection. Number of open connections: 41
+[NX Daemon Server] - 2024-06-12T18:05:39.224Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:39.226Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:39.228Z - Time taken for 'total for creating and serializing project graph' 0.06108301877975464ms
+[NX Daemon Server] - 2024-06-12T18:05:39.229Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:39.229Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 3.
+[NX Daemon Server] - 2024-06-12T18:05:39.259Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:39.259Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:39.259Z - Handled HASH_TASKS. Handling time: 12. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:39.716Z - Established a connection. Number of open connections: 42
+[NX Daemon Server] - 2024-06-12T18:05:39.716Z - Closed a connection. Number of open connections: 41
+[NX Daemon Server] - 2024-06-12T18:05:39.716Z - Established a connection. Number of open connections: 42
+[NX Daemon Server] - 2024-06-12T18:05:39.717Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:39.717Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:39.717Z - Time taken for 'total for creating and serializing project graph' 0.05425000190734863ms
+[NX Daemon Server] - 2024-06-12T18:05:39.718Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:39.718Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:39.746Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:39.746Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:39.746Z - Handled HASH_TASKS. Handling time: 9. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:40.233Z - Established a connection. Number of open connections: 43
+[NX Daemon Server] - 2024-06-12T18:05:40.234Z - Established a connection. Number of open connections: 44
+[NX Daemon Server] - 2024-06-12T18:05:40.234Z - Closed a connection. Number of open connections: 43
+[NX Daemon Server] - 2024-06-12T18:05:40.235Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:40.235Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:40.237Z - Time taken for 'total for creating and serializing project graph' 0.14691698551177979ms
+[NX Daemon Server] - 2024-06-12T18:05:40.237Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:40.237Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:40.260Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:40.260Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:40.260Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:40.715Z - Established a connection. Number of open connections: 44
+[NX Daemon Server] - 2024-06-12T18:05:40.715Z - Closed a connection. Number of open connections: 43
+[NX Daemon Server] - 2024-06-12T18:05:40.716Z - Established a connection. Number of open connections: 44
+[NX Daemon Server] - 2024-06-12T18:05:40.717Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:40.717Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:40.717Z - Time taken for 'total for creating and serializing project graph' 0.05145901441574097ms
+[NX Daemon Server] - 2024-06-12T18:05:40.718Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:40.718Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:40.745Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:40.745Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:40.745Z - Handled HASH_TASKS. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:41.193Z - Established a connection. Number of open connections: 45
+[NX Daemon Server] - 2024-06-12T18:05:41.193Z - Closed a connection. Number of open connections: 44
+[NX Daemon Server] - 2024-06-12T18:05:41.194Z - Established a connection. Number of open connections: 45
+[NX Daemon Server] - 2024-06-12T18:05:41.194Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:41.194Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:41.195Z - Time taken for 'total for creating and serializing project graph' 0.05779200792312622ms
+[NX Daemon Server] - 2024-06-12T18:05:41.196Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:41.196Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:41.219Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:41.228Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:41.228Z - Handled HASH_TASKS. Handling time: 5. Response time: 9.
+[NX Daemon Server] - 2024-06-12T18:05:41.701Z - Established a connection. Number of open connections: 46
+[NX Daemon Server] - 2024-06-12T18:05:41.701Z - Closed a connection. Number of open connections: 45
+[NX Daemon Server] - 2024-06-12T18:05:41.701Z - Established a connection. Number of open connections: 46
+[NX Daemon Server] - 2024-06-12T18:05:41.702Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:41.703Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:41.703Z - Time taken for 'total for creating and serializing project graph' 0.1294580101966858ms
+[NX Daemon Server] - 2024-06-12T18:05:41.704Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:41.704Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:41.733Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:41.733Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:41.733Z - Handled HASH_TASKS. Handling time: 6. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:42.327Z - Established a connection. Number of open connections: 47
+[NX Daemon Server] - 2024-06-12T18:05:42.429Z - Established a connection. Number of open connections: 48
+[NX Daemon Server] - 2024-06-12T18:05:42.429Z - Closed a connection. Number of open connections: 47
+[NX Daemon Server] - 2024-06-12T18:05:42.430Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:42.431Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:42.431Z - Time taken for 'total for creating and serializing project graph' 0.5822499990463257ms
+[NX Daemon Server] - 2024-06-12T18:05:42.433Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:42.433Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-06-12T18:05:42.465Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:42.465Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:42.465Z - Handled HASH_TASKS. Handling time: 6. Response time: 0.
+[NX Daemon Server] - 2024-06-12T18:05:42.957Z - Established a connection. Number of open connections: 48
+[NX Daemon Server] - 2024-06-12T18:05:42.957Z - Closed a connection. Number of open connections: 47
+[NX Daemon Server] - 2024-06-12T18:05:42.958Z - Established a connection. Number of open connections: 48
+[NX Daemon Server] - 2024-06-12T18:05:42.959Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-12T18:05:42.959Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-12T18:05:42.959Z - Time taken for 'total for creating and serializing project graph' 0.0840420126914978ms
+[NX Daemon Server] - 2024-06-12T18:05:42.960Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-12T18:05:42.960Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-12T18:05:42.988Z - [REQUEST]: Responding to the client. handleHashTasks
+Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:952:11)
+    at Socket._write (node:net:964:8)
+    at writeOrBuffer (node:internal/streams/writable:447:12)
+    at _write (node:internal/streams/writable:389:10)
+    at Writable.write (node:internal/streams/writable:393:10)
+    at /Users/kthompson/next-on-firebase/node_modules/nx/src/daemon/server/shutdown-utils.js:62:16
+    at new Promise (<anonymous>)
+    at respondToClient (/Users/kthompson/next-on-firebase/node_modules/nx/src/daemon/server/shutdown-utils.js:58:12) {
+  errno: -32,
+  code: 'EPIPE',
+  syscall: 'write'
+}
+[NX Daemon Server] - 2024-06-12T18:05:43.004Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-12T18:05:43.005Z - Socket error
+Error: write EPIPE
+    at afterWriteDispatched (node:internal/stream_base_commons:160:15)
+    at writeGeneric (node:internal/stream_base_commons:151:3)
+    at Socket._writeGeneric (node:net:952:11)
+    at Socket._write (node:net:964:8)
+    at writeOrBuffer (node:internal/streams/writable:447:12)
+    at _write (node:internal/streams/writable:389:10)
+    at Writable.write (node:internal/streams/writable:393:10)
+    at /Users/kthompson/next-on-firebase/node_modules/nx/src/daemon/server/shutdown-utils.js:62:16
+    at new Promise (<anonymous>)
+    at respondToClient (/Users/kthompson/next-on-firebase/node_modules/nx/src/daemon/server/shutdown-utils.js:58:12) {
+  errno: -32,
+  code: 'EPIPE',
+  syscall: 'write'
+}
+[NX Daemon Server] - 2024-06-12T18:05:43.006Z - Handled HASH_TASKS. Handling time: 8. Response time: 18.
+[NX Daemon Server] - 2024-06-12T18:05:43.006Z - Closed a connection. Number of open connections: 47
+[NX Daemon Server] - 2024-06-12T18:05:43.006Z - Closed a connection. Number of open connections: 46
+[NX Daemon Server] - 2024-06-12T18:05:43.008Z - Closed a connection. Number of open connections: 45
+[NX Daemon Server] - 2024-06-12T18:05:43.021Z - Closed a connection. Number of open connections: 44
+[NX Daemon Server] - 2024-06-12T18:05:43.036Z - Closed a connection. Number of open connections: 43
+[NX Daemon Server] - 2024-06-12T18:05:43.052Z - Closed a connection. Number of open connections: 42
+[NX Daemon Server] - 2024-06-12T18:05:43.066Z - Closed a connection. Number of open connections: 41
+[NX Daemon Server] - 2024-06-12T18:05:43.082Z - Closed a connection. Number of open connections: 40
+[NX Daemon Server] - 2024-06-12T18:05:43.097Z - Closed a connection. Number of open connections: 39
+[NX Daemon Server] - 2024-06-12T18:05:43.111Z - Closed a connection. Number of open connections: 38
+[NX Daemon Server] - 2024-06-12T18:05:43.125Z - Closed a connection. Number of open connections: 37
+[NX Daemon Server] - 2024-06-12T18:05:43.139Z - Closed a connection. Number of open connections: 36
+[NX Daemon Server] - 2024-06-12T18:05:43.153Z - Closed a connection. Number of open connections: 35
+[NX Daemon Server] - 2024-06-12T18:05:43.167Z - Closed a connection. Number of open connections: 34
+[NX Daemon Server] - 2024-06-12T18:05:43.181Z - Closed a connection. Number of open connections: 33
+[NX Daemon Server] - 2024-06-12T18:05:43.194Z - Closed a connection. Number of open connections: 32
+[NX Daemon Server] - 2024-06-12T18:05:43.207Z - Closed a connection. Number of open connections: 31
+[NX Daemon Server] - 2024-06-12T18:05:43.218Z - Closed a connection. Number of open connections: 30
+[NX Daemon Server] - 2024-06-12T18:05:43.228Z - Closed a connection. Number of open connections: 29
+[NX Daemon Server] - 2024-06-12T18:05:43.240Z - Closed a connection. Number of open connections: 28
+[NX Daemon Server] - 2024-06-12T18:05:43.251Z - Closed a connection. Number of open connections: 27
+[NX Daemon Server] - 2024-06-12T18:05:43.263Z - Closed a connection. Number of open connections: 26
+[NX Daemon Server] - 2024-06-12T18:05:43.276Z - Closed a connection. Number of open connections: 25
+[NX Daemon Server] - 2024-06-12T18:05:43.290Z - Closed a connection. Number of open connections: 24
+[NX Daemon Server] - 2024-06-12T18:05:43.303Z - Closed a connection. Number of open connections: 23
+[NX Daemon Server] - 2024-06-12T18:05:43.316Z - Closed a connection. Number of open connections: 22
+[NX Daemon Server] - 2024-06-12T18:05:43.329Z - Closed a connection. Number of open connections: 21
+[NX Daemon Server] - 2024-06-12T18:05:43.343Z - Closed a connection. Number of open connections: 20
+[NX Daemon Server] - 2024-06-12T18:05:43.357Z - Closed a connection. Number of open connections: 19
+[NX Daemon Server] - 2024-06-12T18:05:43.370Z - Closed a connection. Number of open connections: 18
+[NX Daemon Server] - 2024-06-12T18:05:43.383Z - Closed a connection. Number of open connections: 17
+[NX Daemon Server] - 2024-06-12T18:05:43.396Z - Closed a connection. Number of open connections: 16
+[NX Daemon Server] - 2024-06-12T18:05:43.410Z - Closed a connection. Number of open connections: 15
+[NX Daemon Server] - 2024-06-12T18:05:43.423Z - Closed a connection. Number of open connections: 14
+[NX Daemon Server] - 2024-06-12T18:05:43.436Z - Closed a connection. Number of open connections: 13
+[NX Daemon Server] - 2024-06-12T18:05:43.449Z - Closed a connection. Number of open connections: 12
+[NX Daemon Server] - 2024-06-12T18:05:43.467Z - Closed a connection. Number of open connections: 11
+[NX Daemon Server] - 2024-06-12T18:05:43.482Z - Closed a connection. Number of open connections: 10
+[NX Daemon Server] - 2024-06-12T18:05:43.500Z - Closed a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-06-12T18:05:43.519Z - Closed a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-06-12T18:05:43.540Z - Closed a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-06-12T18:05:43.553Z - Closed a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-06-12T18:05:43.566Z - Closed a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-06-12T18:05:43.579Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-06-12T18:05:43.593Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-06-12T18:05:43.618Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-12T18:05:43.632Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-12T18:05:43.648Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-12T18:10:12.112Z - [WATCHER]: 21 file(s) created or restored, 0 file(s) modified, 4 file(s) deleted
+[NX Daemon Server] - 2024-06-12T18:10:12.117Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-12T18:10:12.118Z - [WATCHER]: Stopping the watcher for /Users/kthompson/next-on-firebase (sources)
+[NX Daemon Server] - 2024-06-12T18:10:12.118Z - [WATCHER]: Stopping the watcher for /Users/kthompson/next-on-firebase (outputs)
+[NX Daemon Server] - 2024-06-12T18:10:12.119Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
